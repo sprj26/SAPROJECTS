@@ -1,0 +1,7 @@
+he path is required to be set for using tools such as javac, java, etc.
+
+If you are saving the Java source file inside the JDK/bin directory, the path is not required to be set because all the tools will be available in the current directory.
+
+However, if you have your Java file outside the JDK/bin folder, it is necessary to set the path of JDK.
+
+There are two ways to set the path in Java:
